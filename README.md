@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/marshall-johnson/b2bHeadless.git
+git clone https://github.com/Joe-etzkorn/b2bHeadless.git
 cd b2bHeadless
 ```
 
